@@ -4,6 +4,13 @@
 
 This project is for group introduction of group-5.
 
+## Introduction to the people in Group-5
+
+- [Abdulsamed](people/Abdulsamed.md)
+- [Alina](people/Alina.md)
+- [Dawit](people/Dawit.md)
+- [Tahmina](people/Tahmina.md)
+
 ## Getting Started
 
 <!-- a guide to using this repository -->
@@ -47,9 +54,4 @@ that your code will pass before pushing by running `npm run lint:md` locally.
   - The `master`/`main` branch must "_Require require branches to be up to date
     before merging_"
 
-## Introduction to the people in Group-5
 
-- [Abdulsamed](people/Abdulsamed.md)
-- [Alina](people/Alina.md)
-- [Dawit](people/Dawit.md)
-- [Tahmina](people/Tahmina.md)
