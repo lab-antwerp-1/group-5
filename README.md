@@ -1,13 +1,22 @@
-# (project name)
+# Group introduction
 
 <!-- describe your project -->
+
+This project is for group introduction of group-5.
+
+## Introduction to the people in Group-5
+
+- [Abdulsamed](people/Abdulsamed.md)
+- [Alina](people/Alina.md)
+- [Dawit](people/Dawit.md)
+- [Tahmina](people/Tahmina.md)
 
 ## Getting Started
 
 <!-- a guide to using this repository -->
 
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
+1. `git clone https://github.com/lab-antwerp-1/group-5`
+2. `cd group-5`
 3. `npm install`
 
 ## Code Quality Checks
@@ -44,3 +53,5 @@ that your code will pass before pushing by running `npm run lint:md` locally.
     merging_"
   - The `master`/`main` branch must "_Require require branches to be up to date
     before merging_"
+
+
